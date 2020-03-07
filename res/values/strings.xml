@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My-calendar</string>
+    <string name="title_calendar">Calendrier</string>
+    <string name="title_cart">Liste des courses</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_users">Utilisateurs</string>
+    <string name="title_settings">Paramétres</string>
+
+</resources>
